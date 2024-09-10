@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sigenalur.github.io/sitemap.html.gz
+Sitemap: https://sigenalur.github.io/app/sitemap.html.gz
+Sitemap: https://sigenalur.github.io/assets/sitemap.html.gz
+Sitemap: https://sigenalur.github.io/css/sitemap.html.gz
+Sitemap: https://sigenalur.github.io/includes/sitemap.html.gz
+Sitemap: https://sigenalur.github.io/item/sitemap.html.gz
+Sitemap: https://sigenalur.github.io/src/sitemap.html.gz
